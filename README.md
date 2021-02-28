@@ -9,4 +9,3 @@ Snake is the common name for a video game concept where the player maneuvers a l
 
 ![gameoversnake](gameoversnake.jpg)
 
-![snakevideo](snakevideo.mp4)
