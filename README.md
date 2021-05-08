@@ -1,8 +1,8 @@
-# Games
+# Snake Game
 
 **Purpose of this Repository**
 
-This repository is intended for my projects for developing games in different languages with the aim of learning and creating projects.
+This repository is intended for my project to develop the Snake Game in Python.
 
 **Snake Game using Python**
 
